@@ -1,1 +1,1 @@
-# Course-Completion-IBM-Soft-Skills---Job-Readiness
+# Create AI powered apps with open source LangChain
